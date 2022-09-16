@@ -1,2 +1,2 @@
-# si3226x
+# Skyworks si3226x
 
