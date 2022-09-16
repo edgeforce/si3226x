@@ -1,2 +1,2 @@
-# Skyworks Si3226x
+# Silicon Laboratories Si3226x
 
