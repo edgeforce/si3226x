@@ -218,19 +218,3 @@ typedef struct {
 #define	CM_BIAS_RINGING	40
 #define	DCDC_MIN_V	41
 #define	DCDC_XTRA	42
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
